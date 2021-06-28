@@ -18,7 +18,7 @@ const Header = () => {
 
   return (
     <header>
-      <Navbar fixed="top" bg='info' variant='dark' expand='lg'  collapseOnSelect>
+      <Navbar bg='info' variant='dark' expand='lg'  collapseOnSelect>
         <Container>
           <LinkContainer to='/'>
             <Navbar.Brand>PipelineShop</Navbar.Brand>
